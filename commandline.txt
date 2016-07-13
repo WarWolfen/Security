@@ -1,2 +1,0 @@
-java-exe -version
-java.exe -cp C:\work\mediaplan\Sec\bin security.SecurityDemo
